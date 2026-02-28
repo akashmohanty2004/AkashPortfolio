@@ -233,7 +233,7 @@ strong {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 999;
+    z-index: 1100;
     background: rgba(10, 14, 26, 0.8);
     backdrop-filter: blur(20px);
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
@@ -1486,4 +1486,5 @@ strong {
     white-space: nowrap;
     border-width: 0;
 }
+
 
