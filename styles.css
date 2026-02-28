@@ -169,7 +169,7 @@ strong {
 /* Theme Toggle */
 .theme-toggle {
     position: fixed;
-    margin: 60px;
+    
     top: 2rem;
     right: 2rem;
     z-index: 1000;
@@ -1487,6 +1487,7 @@ strong {
     white-space: nowrap;
     border-width: 0;
 }
+
 
 
 
