@@ -185,6 +185,16 @@ strong {
     box-shadow: var(--shadow-lg);
     transition: all var(--transition-base);
 }
+/* ============================= */
+/* 📱 MOBILE FIX (ADD HERE) */
+/* ============================= */
+
+@media (max-width: 768px) {
+    .theme-toggle {
+        top: 85px;   /* push below navbar */
+        right: 1rem; /* optional spacing */
+    }
+}
 
 .theme-toggle:hover {
     transform: scale(1.1) rotate(15deg);
@@ -1476,3 +1486,4 @@ strong {
     white-space: nowrap;
     border-width: 0;
 }
+
