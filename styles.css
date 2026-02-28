@@ -191,8 +191,8 @@ strong {
 
 @media (max-width: 768px) {
     .theme-toggle {
-        top: 85px;   /* push below navbar */
-        right: 1rem; /* optional spacing */
+        top: 85px;
+        right: 1rem;
     }
 }
 
@@ -1486,5 +1486,6 @@ strong {
     white-space: nowrap;
     border-width: 0;
 }
+
 
 
